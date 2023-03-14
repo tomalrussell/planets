@@ -1,1 +1,2 @@
 2 venus.txt
+2 total
